@@ -1,8 +1,0 @@
-| Variável              | Descrição                                                         | Tipo de Dado     | Quantidade de Valores Ausentes | Variável Categórica ou Numérica | Exemplos de Valores           |
-|-----------------------|-------------------------------------------------------------------|------------------|--------------------------------|---------------------------------|--------------------------------|
-| Idade                | Idade do usuário                                                 | Numérico (float) | 10                             | Numérica                        | 29, 58, 50                   |
-| Renda Anual (em $)   | Renda anual do usuário em dólares                                | Numérico (float) | 11                             | Numérica                        | 30.000, 50.000, 100.000       |
-| Gênero               | Gênero do usuário (Feminino ou Masculino)                       | Categórico (str) | 7                              | Categórica                      | Feminino, Masculino           |
-| Tempo no Site (min)  | Tempo que o usuário passou navegando no site (em minutos)        | Numérico (float) | 0                              | Numérica                        | 5.74, 21.88, 28.23           |
-| Anúncio Clicado      | Indica se o usuário clicou em um anúncio no site (Sim ou Não)    | Categórico (str) | 10                             | Categórica                      | Sim, Não                      |
-| Compra               | Indica se o usuário comprou uma casa (1 para sim, 0 para não)    | Binário (int)    | 0                              | Categórica                      | 1, 0                          |
