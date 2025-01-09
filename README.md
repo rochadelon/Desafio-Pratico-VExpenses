@@ -1,11 +1,5 @@
-linkedin.com/in/delonrocha/
+[Linkedin](https://linkedin.com/in/delonrocha/)
 # Análise Preditiva de Compras em Site Imobiliário
-
-## **Conclusão sobre a Efetividade do Modelo**
-
-O modelo de **Árvore de Decisão** apresenta uma **acurácia de 58%**, ligeiramente superior ao acaso. Embora seja eficaz em identificar **não compradores** (Recall de 80%), apresenta desempenho limitado na identificação de **compradores** (Recall de 28%) com um **F1-Score de 0.36** para esta classe. A alta taxa de **falsos negativos (18)** indica que o modelo frequentemente não reconhece clientes potenciais para compra. Portanto, o modelo atual é mais eficiente para prever quem **não comprará**, mas carece de eficácia para identificar compradores, limitando sua aplicabilidade em estratégias de captação de clientes.
-
----
 
 ## **Resumo do Projeto**
 
