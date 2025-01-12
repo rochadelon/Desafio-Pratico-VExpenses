@@ -7,7 +7,7 @@ O projeto teve como objetivo construir um modelo de classificação para prever 
 
 ### **Índice**
 
-1. **Desafio Prático Ciência de Dados VExpenses**
+1. **Desafio Prático Ciência de Dados**
    - Objetivo do Desafio
 
 2. **Introdução**
